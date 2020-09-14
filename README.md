@@ -4,6 +4,9 @@ This is an Exploratory Data Analysis of Google Play Store Apps Dataset from Kagg
  Data Cleaning
  
 •	The 'Installs' column had '+' sign and so to make this a floating point data type, I removed the '+' and converted the data type to float.
+
 •	The 'Price' column had '$" symbol which I have removed and again converted the data type to float. 
+
 •	The average rating for all the apps is 4.17 which is pretty descent. 
+
 •	From the data, we can see that users tend to install apps which are free and priced between $1 - $30.
